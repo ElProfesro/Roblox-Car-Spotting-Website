@@ -1,0 +1,19 @@
+body{
+    background: rgb(0,0,0);
+    background: radial-gradient(circle, rgba(0,0,0,1) 10%, rgba(68,68,73,1) 50%, rgba(127,140,143,1) 100%);
+    text-align: center;
+    font-family: Verdana;
+    font-size: 12px;
+}
+
+h1{
+    font-size: 28px;
+    color: white;
+    font-family: monospace;
+}
+
+h2{
+    font-size: 22px;
+    color: blueviolet;
+    font-family: monospace;
+}
